@@ -49,15 +49,8 @@ body{
 	margin: 70px 150px;
 }
 
-.espaciado{
+.espaciado, .espacia2, .espacia3, .espacia4{
 	display: inline-block;
 	width: 40%;
 	padding-left:50px;
 }
-
-.espacia2{
-	display: inline-block;
-	width: 40%;
-	padding-left:50px;
-}
-
