@@ -108,6 +108,7 @@ label{
 	font-size: 13.5px;
 	font-weight: bold;
 	height: 35px;
+	margin-top: 2px;
 }
 
 #adjust{
@@ -116,4 +117,5 @@ label{
 
 footer{
 	background-color: #f7f7f7;
+	padding-bottom: 0.1px;
 }
