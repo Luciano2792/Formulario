@@ -34,11 +34,11 @@ label, input, select{
 }
 
 #special{
-	width: 100%;
+	width: 97.5%;
 	margin: 5px 0;
 	border-radius: 3.5px 3.5px 3.5px 3.5px;
-   	border: 1px solid #e9e9e9;
-   	padding: 5px 0px;
+   	border: 2px solid #e9e9e9;
+   	padding: 5px 10px;
 }
 
 section{
@@ -48,10 +48,9 @@ section{
    -webkit-border-radius: 4px 4px 4px 4px;
 }
 
-body{
-	margin: 70px 150px;
+.margen{
+	margin: 0px 150px;
 }
-
 .espaciado{
 	display: inline-block;
 	width: 45%;
@@ -72,12 +71,12 @@ label{
 }
 
 .modificado{
-	border: 1px solid #e9e9e9;
+	border: 2px solid #e9e9e9;
 	border-radius: 1px;
 	-moz-border-radius: 4px 4px 4px 4px;
    	-webkit-border-radius: 4px 4px 4px 4px;
     width: 100%;
-   	padding: 7px 0;
+   	padding: 7px 10px;
    	margin-top: 4px;
 }
 
@@ -90,7 +89,7 @@ label{
 .another{
 	display: block;
 	padding: 7px 0;
-	border: 1px solid #E9E9E9;
+	border: 2px solid #E9E9E9;
 	border-radius: 1px;
 	-moz-border-radius: 4px 4px 4px 4px;
    	-webkit-border-radius: 4px 4px 4px 4px;
@@ -110,7 +109,10 @@ label{
 	height: 35px;
 	margin-top: 2px;
 }
-
+.prueba{
+	padding-top: 8px;
+	padding-bottom: 0px;
+}
 #adjust{
 	margin-left: 20px;
 }
@@ -118,4 +120,7 @@ label{
 footer{
 	background-color: #f7f7f7;
 	padding-bottom: 0.1px;
+}
+#adjust2{
+	margin: 0 0 0 100px;
 }
